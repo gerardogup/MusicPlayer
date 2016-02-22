@@ -13,6 +13,17 @@
 		5644CA251C7A796F009D6B56 /* MusicPlayer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 5644CA231C7A796F009D6B56 /* MusicPlayer.xcdatamodeld */; };
 		5644CA271C7A7970009D6B56 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5644CA261C7A7970009D6B56 /* Assets.xcassets */; };
 		5644CA2A1C7A7970009D6B56 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5644CA281C7A7970009D6B56 /* LaunchScreen.storyboard */; };
+		5644CA411C7A84CC009D6B56 /* a-corazon-abierto.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5644CA401C7A84CC009D6B56 /* a-corazon-abierto.jpg */; };
+		5644CA461C7A85E9009D6B56 /* de-viaje.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5644CA421C7A85E9009D6B56 /* de-viaje.jpg */; };
+		5644CA471C7A85E9009D6B56 /* imagine.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5644CA431C7A85E9009D6B56 /* imagine.jpg */; };
+		5644CA481C7A85E9009D6B56 /* la-linea.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5644CA441C7A85E9009D6B56 /* la-linea.jpg */; };
+		5644CA491C7A85E9009D6B56 /* primitive-love.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5644CA451C7A85E9009D6B56 /* primitive-love.jpg */; };
+		5644CA4B1C7A8A13009D6B56 /* Datos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5644CA4A1C7A8A13009D6B56 /* Datos.swift */; };
+		5644CA531C7AA9ED009D6B56 /* Conga.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5644CA4E1C7AA9ED009D6B56 /* Conga.mp3 */; };
+		5644CA541C7AA9ED009D6B56 /* Imagine.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5644CA4F1C7AA9ED009D6B56 /* Imagine.mp3 */; };
+		5644CA551C7AA9ED009D6B56 /* Me dedique a perderte.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5644CA501C7AA9ED009D6B56 /* Me dedique a perderte.mp3 */; };
+		5644CA561C7AA9ED009D6B56 /* Mientes tan bien.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5644CA511C7AA9ED009D6B56 /* Mientes tan bien.mp3 */; };
+		5644CA571C7AA9ED009D6B56 /* Perhaps perhaps perhaps.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5644CA521C7AA9ED009D6B56 /* Perhaps perhaps perhaps.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +35,17 @@
 		5644CA261C7A7970009D6B56 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5644CA291C7A7970009D6B56 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5644CA2B1C7A7970009D6B56 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5644CA401C7A84CC009D6B56 /* a-corazon-abierto.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "a-corazon-abierto.jpg"; sourceTree = "<group>"; };
+		5644CA421C7A85E9009D6B56 /* de-viaje.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "de-viaje.jpg"; sourceTree = "<group>"; };
+		5644CA431C7A85E9009D6B56 /* imagine.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = imagine.jpg; sourceTree = "<group>"; };
+		5644CA441C7A85E9009D6B56 /* la-linea.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "la-linea.jpg"; sourceTree = "<group>"; };
+		5644CA451C7A85E9009D6B56 /* primitive-love.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "primitive-love.jpg"; sourceTree = "<group>"; };
+		5644CA4A1C7A8A13009D6B56 /* Datos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Datos.swift; sourceTree = "<group>"; };
+		5644CA4E1C7AA9ED009D6B56 /* Conga.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Conga.mp3; sourceTree = "<group>"; };
+		5644CA4F1C7AA9ED009D6B56 /* Imagine.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Imagine.mp3; sourceTree = "<group>"; };
+		5644CA501C7AA9ED009D6B56 /* Me dedique a perderte.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Me dedique a perderte.mp3"; sourceTree = "<group>"; };
+		5644CA511C7AA9ED009D6B56 /* Mientes tan bien.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Mientes tan bien.mp3"; sourceTree = "<group>"; };
+		5644CA521C7AA9ED009D6B56 /* Perhaps perhaps perhaps.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Perhaps perhaps perhaps.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,13 +78,24 @@
 		5644CA1B1C7A796F009D6B56 /* MusicPlayer */ = {
 			isa = PBXGroup;
 			children = (
+				5644CA4E1C7AA9ED009D6B56 /* Conga.mp3 */,
+				5644CA4F1C7AA9ED009D6B56 /* Imagine.mp3 */,
+				5644CA501C7AA9ED009D6B56 /* Me dedique a perderte.mp3 */,
+				5644CA511C7AA9ED009D6B56 /* Mientes tan bien.mp3 */,
+				5644CA521C7AA9ED009D6B56 /* Perhaps perhaps perhaps.mp3 */,
 				5644CA1C1C7A796F009D6B56 /* AppDelegate.swift */,
 				5644CA1E1C7A796F009D6B56 /* ViewController.swift */,
 				5644CA201C7A796F009D6B56 /* Main.storyboard */,
 				5644CA261C7A7970009D6B56 /* Assets.xcassets */,
+				5644CA401C7A84CC009D6B56 /* a-corazon-abierto.jpg */,
+				5644CA421C7A85E9009D6B56 /* de-viaje.jpg */,
+				5644CA431C7A85E9009D6B56 /* imagine.jpg */,
+				5644CA441C7A85E9009D6B56 /* la-linea.jpg */,
+				5644CA451C7A85E9009D6B56 /* primitive-love.jpg */,
 				5644CA281C7A7970009D6B56 /* LaunchScreen.storyboard */,
 				5644CA2B1C7A7970009D6B56 /* Info.plist */,
 				5644CA231C7A796F009D6B56 /* MusicPlayer.xcdatamodeld */,
+				5644CA4A1C7A8A13009D6B56 /* Datos.swift */,
 			);
 			path = MusicPlayer;
 			sourceTree = "<group>";
@@ -126,8 +159,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5644CA491C7A85E9009D6B56 /* primitive-love.jpg in Resources */,
 				5644CA2A1C7A7970009D6B56 /* LaunchScreen.storyboard in Resources */,
+				5644CA471C7A85E9009D6B56 /* imagine.jpg in Resources */,
 				5644CA271C7A7970009D6B56 /* Assets.xcassets in Resources */,
+				5644CA561C7AA9ED009D6B56 /* Mientes tan bien.mp3 in Resources */,
+				5644CA571C7AA9ED009D6B56 /* Perhaps perhaps perhaps.mp3 in Resources */,
+				5644CA481C7A85E9009D6B56 /* la-linea.jpg in Resources */,
+				5644CA551C7AA9ED009D6B56 /* Me dedique a perderte.mp3 in Resources */,
+				5644CA411C7A84CC009D6B56 /* a-corazon-abierto.jpg in Resources */,
+				5644CA461C7A85E9009D6B56 /* de-viaje.jpg in Resources */,
+				5644CA541C7AA9ED009D6B56 /* Imagine.mp3 in Resources */,
+				5644CA531C7AA9ED009D6B56 /* Conga.mp3 in Resources */,
 				5644CA221C7A796F009D6B56 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -140,6 +183,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5644CA1F1C7A796F009D6B56 /* ViewController.swift in Sources */,
+				5644CA4B1C7A8A13009D6B56 /* Datos.swift in Sources */,
 				5644CA251C7A796F009D6B56 /* MusicPlayer.xcdatamodeld in Sources */,
 				5644CA1D1C7A796F009D6B56 /* AppDelegate.swift in Sources */,
 			);
